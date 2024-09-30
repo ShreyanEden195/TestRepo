@@ -5,5 +5,6 @@ int main()
   printf("God morning");
   printf("ADD");
   printf("SUB");
+  printf("MULT");
 return 0
 }
